@@ -1,10 +1,10 @@
 .Login {
     max-width: 1250px;
     height: 1117px;
-width: 1728px;
-left: 5394px;
-top: -2920px;
-background-size: cover;
+    width: 1728px;
+    left: 5394px;
+    top: -2920px;
+    background-size: cover;
     display: flex;
     border: 1px solid #e9ecef;
     border-radius: 5px;
@@ -14,21 +14,22 @@ background-size: cover;
     text-align: center;
 
 }
-  .Login img{  
-   position:relative;
-   height: 120px;
-   width: 120px;
-   left: 120px;
-   top: 0px;
-  }
+
+.Login img {
+    position: relative;
+    height: 120px;
+    width: 120px;
+    left: 120px;
+    top: 0px;
+}
 
 .Login .col-1 {
     width: 650px;
-   
+
 }
 
 .Login .col-1 h2 {
-    
+
     position: relative;
     font-family: Inter;
     font-style: normal;
@@ -36,7 +37,7 @@ background-size: cover;
     font-weight: 700;
     line-height: 58px;
     letter-spacing: 0em;
-    text-align:center;
+    text-align: center;
     color: #000404;
 
 }
@@ -57,7 +58,7 @@ background-size: cover;
     line-height: 22px;
     letter-spacing: 0em;
     text-align: left;
-    
+
     font-family: 'Inter';
     font-size: 14px;
     font-weight: 400;
@@ -81,17 +82,19 @@ background-size: cover;
 }
 
 #form>.btn {
-    background: #56A6B1;;
+    background: #56A6B1;
+    ;
     font-size: 1em;
     border-radius: 10px;
     cursor: pointer;
     color: #000404;
 }
-.Login .col-1 p{
+
+.Login .col-1 p {
     gap: 1em;
 }
 
-#form> footer{
+#form>footer {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -117,61 +120,63 @@ background-size: cover;
 }
 
 .Login .col-2 {
-    background: #B8D8E0;;
+    background: #B8D8E0;
+    ;
     width: 748px
 }
-.Login.col-2{
+
+.Login.col-2 {
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
- .Login .col-2 h1 {
-     font-family: Inter;
-     font-size: 52px;
-     font-weight: 1000;
-     line-height: 63px;
-     letter-spacing: 0em;
+.Login .col-2 h1 {
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 1000;
+    line-height: 63px;
+    letter-spacing: 0em;
 
-     height: 64px;
-     width: 494px;
-     border-radius: nullpx;
-     margin-top: 120px;
-     margin-left: 60px;
-     text-align: center;
+    height: 64px;
+    width: 494px;
+    border-radius: nullpx;
+    margin-top: 120px;
+    margin-left: 60px;
+    text-align: center;
 
- }
+}
 
- .Login .col-2 h3 {
-     height: 87px;
-     width: 453px;
-     font-family: Inter;
-     font-weight: 800;
-     font-size: 24px;
-     line-height: 29px;
-     letter-spacing: 0.04em;
-     margin-top: 10px;
-     margin-left: 85px;
-     text-align: center;
+.Login .col-2 h3 {
+    height: 87px;
+    width: 453px;
+    font-family: Inter;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.04em;
+    margin-top: 10px;
+    margin-left: 85px;
+    text-align: center;
 
 
- }
+}
 
 .Login .col-2 img {
     position: inherit;
-        left: 0%;
-        right: 0%;
-        top: 0%;
-        bottom: 0%;
-        width: 550px;
-        height: 60%;
-        mix-blend-mode: multiply;
-   /* width: 550px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    width: 550px;
+    height: 60%;
+    mix-blend-mode: multiply;
+    /* width: 550px;
     height: 60%;
     background-color: lightblue;
     mix-blend-mode:multiply;*/
-    
+
 }
 
 @media screen and (min-width: 1000px) {
